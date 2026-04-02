@@ -3,7 +3,8 @@
 # Ian Brighouse
 ### Network Security Auditor · Penetration Tester · ML Security Researcher
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ian-brighouse-349548338)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://doi.org/10.13140/RG.2.2.16609.47201/1)
 [![University of East London](https://img.shields.io/badge/UEL-Cybersecurity%20%26%20Networks-003087?style=for-the-badge)](https://uel.ac.uk)
 
 </div>
@@ -22,7 +23,7 @@ My work focuses on bridging the gap between academic security research and pract
 
 ### [RT-MLIDS](https://github.com/brigghouse/RT-MLIDS) — Real-Time ML Intrusion Detection System
 
-> A research-grade IDS framework combining Random Forest and XGBoost in a stacked ensemble, with adversarial robustness evaluation using black-box evasion attacks. Published on ResearchGate.
+> A research-grade IDS framework combining Random Forest and XGBoost in a stacked ensemble, with adversarial robustness evaluation using black-box evasion attacks. **[Published on ResearchGate](https://doi.org/10.13140/RG.2.2.16609.47201/1)** · `DOI: 10.13140/RG.2.2.16609.47201/1`
 
 - **96.85% precision** on NSL-KDD KDDTest+ (complete benchmark — harder than most published results)
 - **382,013 flows/sec** XGBoost throughput at **2.62 µs** per flow
